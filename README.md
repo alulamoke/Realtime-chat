@@ -19,7 +19,7 @@
 
 ## Acknowledgements
 
-- [Awesome Button UI Component](https://ui.shadcn.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
 
 ## Feedback
 
